@@ -1,0 +1,277 @@
+body {
+    margin: 0px;
+    border: 0px;
+}
+
+
+/* homePage (CONTENT!!!) */
+
+#tagContent {
+    display: flex;
+    margin-top: 1em;
+    margin-left: 24em;
+}
+
+#tagContent fieldset {
+    width: 12em;
+    height: 38em;
+    border: 2px solid #ececec;
+}
+
+
+/*tag connect start icon style */
+
+#tagContent #startIcon {
+    margin-top: 6em;
+    margin-bottom: 2em;
+    margin-left: 2em;
+}
+
+#tagContent #startIcon input {
+    margin-left: 1.55em;
+}
+
+#tagContent #startIcon p {
+    margin-top: 2em;
+}
+
+#homeContent fieldset {
+    width: 64em;
+    height: 38em;
+    border: 2px solid #ececec;
+}
+
+
+/*---------------*/
+
+#barTopAll {
+    display: flex;
+}
+
+
+/*leftbar style */
+
+
+/*leftbar style list*/
+
+#leftBarTop {
+    display: flex;
+    margin-left: 1em;
+    margin-top: 0.55em;
+}
+
+#tagClick a:hover {
+    background-color: #f2f2f2;
+    color: #3d4aff;
+}
+
+#tagClick ul {
+    display: flex;
+}
+
+#tagClick ul li {
+    list-style: none;
+    margin-right: 1em;
+    margin-top: 0.55em;
+    font-size: 16px;
+}
+
+#tagClick a {
+    text-decoration: none;
+    color: #000000;
+}
+
+
+/*---------------------------*/
+
+
+/*rightbar style*/
+
+#rightBarTop {
+    display: flex;
+    margin-left: 38em;
+    margin-top: 1em;
+}
+
+
+/*button add tag*/
+
+#clickVenue {
+    width: 12em;
+    height: 3em;
+    margin-right: 1em;
+    border-radius: 0.65em;
+    font-size: 16px;
+    color: #ff3838;
+    border: 2px solid #ff3838;
+    background-color: #f2f2f2;
+}
+
+#clickVenue:hover {
+    background-color: #ff3838;
+    color: #f2f2f2;
+}
+
+
+/*search country */
+
+#countryName {
+    width: 8em;
+    height: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 1em;
+}
+
+
+/*login */
+
+#rightBarTop a {
+    text-decoration: none;
+    margin-left: 1em;
+    margin-right: 2em;
+    margin-top: 1em;
+}
+
+
+/*register new account.*/
+
+#clickRegister {
+    width: 12em;
+    height: 3em;
+    margin-right: 1em;
+    border-radius: 0.65em;
+    font-size: 16px;
+    color: #3d4aff;
+    background-color: #f2f2f2;
+    border: 2px solid #3d4aff;
+}
+
+#clickRegister:hover {
+    background-color: #3d4aff;
+    color: #f2f2f2;
+}
+
+
+/*---------------------------*/
+
+
+/*searc tag menu*/
+
+#searchTag fieldset {
+    background-color: #000baa;
+    margin-top: 1em;
+    height: 4em;
+    border: 2px solid #000baa;
+}
+
+
+/*--------*/
+
+#filteringTag fieldset {
+    height: 4em;
+    background-color: #d3d3d3;
+    display: flex;
+}
+
+
+/*love icon images */
+
+#filteringTag img {
+    margin-top: 0.15em;
+    margin-left: 12em;
+}
+
+#filteringTag fieldset ul {
+    margin-left: 21em;
+    display: flex;
+}
+
+#filteringTag input {
+    border-radius: 0.45em;
+    width: 18em;
+    height: 3em;
+    margin-left: 1em;
+}
+
+#filteringTag input::-webkit-input-placeholder {
+    color: #00065c;
+    text-align: start;
+}
+
+#filteringTag ul li {
+    list-style: none;
+    margin-right: 1.5em;
+}
+
+#filteringTag li img {
+    margin-left: 12em;
+}
+
+#filteringTag .btn-filter {
+    width: 9em;
+    height: 3em;
+    border-radius: 1em;
+    background-color: #00065c;
+    color: #f2f2f2;
+}
+
+#filteringTag .btn-filter:hover {
+    color: #00065c;
+    background-color: #f2f2f2;
+    border: 2px solid #00065c
+}
+
+
+/*-------------*/
+
+
+/*fieldset STYLE CONTENT */
+
+#fieldsetContent1 {
+    display: flex;
+}
+
+#fieldsetContent1 img {
+    margin-left: 2em;
+    margin-top: 1em;
+}
+
+#fieldsetContent1 p {
+    font-size: 18px;
+    margin-left: 3.5em;
+}
+
+#fieldsetContent1 fieldset {
+    width: 18em;
+    height: 21em;
+    margin-left: 1em;
+    margin-top: 1em;
+}
+
+.btn-blue {
+    width: 8em;
+    height: 2em;
+    margin-left: 5.5em;
+    background-color: #3d4aff;
+    color: #f2f2f2;
+    font-size: 16px;
+}
+
+.btn-blue:hover {
+    background-color: #f2f2f2;
+    color: #3d4aff;
+}
+
+
+/*horizontalFieldset*/
+
+#horizontalFieldset fieldset {
+    margin-top: 1em;
+    width: 60em;
+    height: 12em;
+    margin-left: 1em;
+}
+
+
+/*-----------------*/
