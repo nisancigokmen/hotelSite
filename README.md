@@ -2,7 +2,6 @@
 
 https://user-images.githubusercontent.com/91744618/139847940-bb44f1a6-cd3e-44ef-9a7a-82284378db3f.mp4
 
-
 <div id="contact">
  
 <h2> Connect with me: </h2>
@@ -25,7 +24,6 @@ https://user-images.githubusercontent.com/91744618/139847940-bb44f1a6-cd3e-44ef-
  </div>
  
 <br>
-
   
 </div><br>
 &copy; Gökmen Nişancı / Web Developer. <br><br>
